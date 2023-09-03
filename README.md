@@ -1,6 +1,7 @@
 ## Hi there!👋
 
 <p>MY name is LeeSeungYun.</p>
+<p>KOOKMIN UNIVERSITY</p>
 
 <h2>skills</h2>
 
