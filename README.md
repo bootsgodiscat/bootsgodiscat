@@ -1,6 +1,10 @@
 ### Hi there 👋
 
- <img src="[https://img.shields.io/badge](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
 
 <!--
 **bootsgodiscat/bootsgodiscat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
