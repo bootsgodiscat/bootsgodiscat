@@ -1,6 +1,6 @@
 ## Hi there!👋
 
-<p>MY name is LeeSeungYun.</p>
+<p>I'm LeeSeungYun</p>
 <p>KOOKMIN UNIVERSITY</p>
 
 <div align="center">
@@ -9,7 +9,7 @@
 	<img src="https://img.shields.io/badge/thislife__y-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </div>
 
-<h2>skills</h2>
+<h2>Skills</h2>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
