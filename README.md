@@ -4,7 +4,9 @@
 <p>KOOKMIN UNIVERSITY</p>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/yun200104@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+	<img src="https://img.shields.io/badge/os9040-7289DA?style=flate&logo=discord&logoColor=white"/>
+	<img src="https://img.shields.io/badge/thislife__y-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </div>
 
 <h2>skills</h2>
